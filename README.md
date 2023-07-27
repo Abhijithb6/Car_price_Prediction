@@ -1,1 +1,1 @@
-# Python_Project
+This Python project, assigned by Upgrad, aims to predict car prices using machine learning algorithms. The code utilizes a dataset of car features and corresponding prices to build a predictive model, which can be used to estimate the price of a car based on its specifications.
